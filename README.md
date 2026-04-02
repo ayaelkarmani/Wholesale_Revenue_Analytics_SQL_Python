@@ -2,14 +2,14 @@
 
 ## 📌 Project Overview
 
-This project analyzes revenue performance across different product lines and warehouses using Python. The goal is to identify key trends, compare performance across categories, and generate insights to support business decision-making.
+This project analyzes revenue performance across different product lines and warehouses using SQL and Python. The goal is to identify key trends, compare performance across categories, and generate insights to support business decision-making.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+* SQL (Wholesale data extraction from database)
 * Python (Pandas, Matplotlib, Seaborn)
-* SQL (data extraction)
 * Data Visualization
 
 ---
