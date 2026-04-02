@@ -18,10 +18,10 @@ sns.barplot(
     data=avg_revenue,
     x='product_line',
     y='net_revenue',
-    hue='product_line',        # Assign x variable to hue
-    dodge=False,               # Keep bars side by side (not dodged)
-    palette="tab10",           # Ready-made Seaborn palette
-    legend=False               # Hide the extra legend
+    hue='product_line',        
+    dodge=False,               
+    palette="tab10",         
+    legend=False               
 )
 
 plt.title('Average Net Revenue per Product Line')
@@ -41,10 +41,10 @@ sns.barplot(
     data=total_revenue,
     x='product_line',
     y='net_revenue',
-    hue='product_line',       # Assign x variable to hue
-    dodge=False,              # No side-by-side bars
-    palette="Set2",           # Seaborn palette
-    legend=False              # Hide the hue legend
+    hue='product_line',       
+    dodge=False,              
+    palette="Set2",           
+    legend=False           
 )
 
 plt.title("Total Net Revenue per Product Line")
