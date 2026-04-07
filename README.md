@@ -14,6 +14,25 @@ This project analyzes revenue performance across different product lines and war
 
 ---
 
+## 📁 Project Structure
+
+```
+SQL-Python-Revenue-Analysis/
+│
+├── data/
+│   └── SQL_dataset_export.csv
+│
+├── images/
+│   ├── avg_revenue_product_line.png
+│   ├── total_revenue_product_line.png
+│   ├── stacked_revenue.png
+│   ├── monthly_product_line.png
+│   └── monthly_warehouse.png
+│
+├── analysis.py
+└── README.md
+```
+
 ## 📈 Key Insights
 
 * Some product lines generate high total revenue but lower average revenue per transaction
@@ -62,43 +81,6 @@ This project analyzes revenue performance across different product lines and war
 
 ---
 
-## 📁 Project Structure
 
-```
-SQL-Python-Revenue-Analysis/
-│
-├── data/
-│   └── SQL_dataset_export.csv
-│
-├── images/
-│   ├── avg_revenue_product_line.png
-│   ├── total_revenue_product_line.png
-│   ├── stacked_revenue.png
-│   ├── monthly_product_line.png
-│   └── monthly_warehouse.png
-│
-├── analysis.py
-└── README.md
-```
 
----
 
-## 🚀 How to Run the Project
-
-1. Clone the repository
-2. Install required libraries:
-
-   ```
-   pip install pandas matplotlib seaborn
-   ```
-3. Run the analysis script:
-
-   ```
-   python analysis.py
-   ```
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you have any questions or feedback!
