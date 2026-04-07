@@ -26,31 +26,31 @@ This project analyzes revenue performance across different product lines and war
 
 ### 🔹 Average Revenue per Product Line
 
-![Average Revenue](images/avg_revenue_product_line.png)
+![Average Revenue](Images/avg_revenue_product_line.png)
 
 ---
 
 ### 🔹 Total Revenue per Product Line
 
-![Total Revenue](images/total_revenue_product_line.png)
+![Total Revenue](Images/total_revenue_product_line.png)
 
 ---
 
 ### 🔹 Total vs Average Revenue (Stacked)
 
-![Stacked Revenue](images/stacked_revenue.png)
+![Stacked Revenue](Images/stacked_revenue.png)
 
 ---
 
 ### 🔹 Monthly Revenue by Product Line
 
-![Monthly Product Line](images/monthly_product_line.png)
+![Monthly Product Line](Images/monthly_product_line.png)
 
 ---
 
 ### 🔹 Monthly Revenue by Warehouse
 
-![Monthly Warehouse](images/monthly_warehouse.png)
+![Monthly Warehouse](Images/monthly_warehouse.png)
 
 ---
 
